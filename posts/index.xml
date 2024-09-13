@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean&#39;s Site</title>
-    <link>https://uocli.me/posts/</link>
+    <link>https://uocli.me/blog/posts/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Sep 2024 19:25:00 -0400</lastBuildDate><atom:link href="https://uocli.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 19:25:00 -0400</lastBuildDate><atom:link href="https://uocli.me/blog/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
